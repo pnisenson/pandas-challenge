@@ -1,0 +1,10 @@
+Py City Schools
+Analysis
+
+Upon performing analysis of the city's school district standardized testing data, I have reached the following two conclusions:
+
+1. **School Type has a direct impact on performance.** Of the 15 schools in the district, the top 5 performing schools were Charter schools and the bottom 5 performing were District schools. Further, the overall passing rate for Charter schools was 90.43%, as compared to 53.67% for District schools.
+
+2. **Spending more per student does not have the intended impact of improved results.** Of the 4 ranges of per student spending created, the two ranges with the smallest budgets had overall passing rates over 90%, which declined to ~73% and ~59% in the greater spend buckets, respectively. This may be skewed as the District schools, which are poor performers, make up most of the large budget per student schools.
+
+
